@@ -1,3 +1,7 @@
+
+#SAE INDIA SELF DRIVING CAR CHALLENGE (SDCC)
+This project follows the course and project module of the Udacity self driving nanodegree program and was done as a part of the SAE INDIA SDCC CHALLENGE 2022
+
 # Advanced Lane Detection
 
 Computer Vision algorithm to compute road curvature and lane vehicle offset using OpenCV Image Processing, Camera Calibration, Perspective Transform, Color Masks, Sobels and Polynomial Fit.
